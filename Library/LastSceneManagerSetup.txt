@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/PocketRPG Trails/Scenes/BladeMaster Example.unity
+  isLoaded: 1
+  isActive: 1
